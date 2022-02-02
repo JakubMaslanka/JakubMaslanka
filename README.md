@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Works as SysAdmin
 - 🎓 Computer Science Student 
-- 🌱 Currently learning TypeScript and GraphQL
+- 🌱 Currently learning React Native
 - 🤓 Fan of  everything written in JavaScript
 - 📷 Photography and computer graphic enthusiast
 <br/><br/>
