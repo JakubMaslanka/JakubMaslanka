@@ -1,8 +1,7 @@
 # Hi there! 👋
 
-**I'm Jakub Maslanka, a wannabe Frontend Developer 💻**
+**I'm Jakub Maslanka, a Junior Frontend Developer 💻**
 
-- 👨🏻‍💻 Works as SysAdmin
 - 🎓 Computer Science Student 
 - 🌱 Currently learning React Native
 - 🤓 Fan of  everything written in JavaScript
