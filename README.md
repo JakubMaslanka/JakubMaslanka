@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-**I'm Jakub Maslanka, a Junior Frontend Developer 💻**
+**I'm Jakub Maslanka, a Full-Stack JavaScript Developer 💻**
 
 - 🎓 Computer Science Student 
-- 🌱 Currently learning Serverless
+- 🌱 Currently learning Serverless & AWS
 - 🤓 Fan of  everything written in JavaScript
 - 📷 Photography and computer graphic enthusiast
 <br/><br/>
