@@ -3,7 +3,7 @@
 **I'm Jakub Maslanka, a Full-Stack JavaScript Developer 💻**
 
 - 🎓 Computer Science Student 
-- 🌱 Currently learning Serverless & AWS
+- 🌱 Currently learning NestJS Microservices
 - 🤓 Fan of  everything written in JavaScript
 - 📷 Photography and computer graphic enthusiast
 <br/><br/>
